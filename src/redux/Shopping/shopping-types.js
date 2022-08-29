@@ -1,0 +1,9 @@
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const FETCH_PRODUCT_LIST = 'FETCH_PRODUCT_LIST';
+export const FETCH_CART = 'FETCH_CART';
+export const TOGGLE_OPEN_CART = 'TOGGLE_OPEN_CART';
+export const SAVE_CART = 'SAVE_CART';
+export const REMOVE_CART_ITEM = 'REMOVE_CART_ITEM';
+export const SAVE_CART_ITEM = 'SAVE_CART_ITEM';
+export const INCREASE_QTY_ITEM = 'INCREASE_QTY_ITEM';
+export const DECREASE_QTY_ITEM = 'DECREASE_QTY_ITEM';

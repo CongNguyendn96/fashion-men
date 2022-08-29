@@ -1,0 +1,34 @@
+.header {
+  background: var(--green);
+
+  &__wrapper {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__logo {
+    color: var(--white);
+    text-decoration: none;
+  }
+
+  &__menu {
+    display: flex;
+    align-self: center;
+
+    &__item {
+      font-size: 20px;
+      padding: 10px;
+      color: var(--white);
+      text-decoration: none;
+    }
+  }
+
+  .carts-num {
+    font-size: 15px;
+    left: 30px;
+    padding: 0 9px;
+    color: var(--white);
+  }
+}

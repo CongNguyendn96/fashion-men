@@ -1,0 +1,9 @@
+.carts-num {
+  padding: 8px 16px;
+  font-size: 20px;
+  border-radius: 50%;
+  background-color: var(--brown);
+  margin-left: 5px;
+  position: absolute;
+  content: attr(data-total);
+}

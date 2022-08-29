@@ -1,0 +1,20 @@
+.form {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+
+  &__wrapper {
+    width: 100%;
+
+    .form-control {
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
+  }
+
+  &__label {
+    color: var(--green);
+    font-weight: 600;
+    text-align: left;
+  }
+}

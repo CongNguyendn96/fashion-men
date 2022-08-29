@@ -1,0 +1,48 @@
+{
+  "carts": [
+    {
+      "id": 1,
+      "name": "the tshirt red",
+      "quantity": 2,
+      "price": 1000,
+      "image": "https://footwearnews.com/wp-content/uploads/2021/10/dwayne-johnson-jumanji-premiere-red-carpet.jpg?w=700&h=437&crop=1"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "the tshirt red",
+      "quantity": 2,
+      "price": 1000,
+      "image": "https://footwearnews.com/wp-content/uploads/2021/10/dwayne-johnson-jumanji-premiere-red-carpet.jpg?w=700&h=437&crop=1"
+    },
+    {
+      "name": "The Rock fashion",
+      "price": "1000",
+      "image": "https://cdn.shopify.com/s/files/1/0566/1795/9593/products/f9ba729fb2d24082a3809ec717be9f06.png?v=1653804455",
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "name": "The Rock fashion 5",
+      "price": 0,
+      "image": "https://cdn.shopify.com/s/files/1/0566/1795/9593/products/760sapphire.jpg?v=1658397181&width=600",
+      "quantity": 1,
+      "id": 3
+    },
+    {
+      "name": "The Rock fashion 6",
+      "price": 0,
+      "image": "https://cdn.shopify.com/s/files/1/0566/1795/9593/products/f9ba729fb2d24082a3809ec717be9f06.png?v=1653804455",
+      "quantity": 1,
+      "id": 4
+    },
+    {
+      "name": "The Rock fashion 7",
+      "price": "200000002",
+      "image": "https://cdn.shopify.com/s/files/1/0566/1795/9593/products/760sapphire.jpg?v=1658397181&width=600",
+      "quantity": 1,
+      "id": 5
+    }
+  ]
+}

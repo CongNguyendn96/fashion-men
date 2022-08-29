@@ -1,0 +1,12 @@
+.card-product {
+  &__name {
+    font-size: 20px;
+  }
+  &__price {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  &__action {
+    justify-content: center;
+  }
+}
